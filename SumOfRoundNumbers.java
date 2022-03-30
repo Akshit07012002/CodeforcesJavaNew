@@ -16,7 +16,7 @@ public class SumOfRoundNumbers
 			int n = Integer.parseInt(in.readLine());
 			int nn = n;
 			
-			List<Integer> a = new ArrayList();
+			List<Integer> a = new ArrayList<Integer>();
 			
 			int r=0, s=0, count=0, mul = 0;
 			
